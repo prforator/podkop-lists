@@ -37,8 +37,6 @@ signin.aws.amazon.com
 speedtest.net
 spotify.com
 sso.amazonaws.com
-steamcommunity.com
-steampowered.com
 steamdb.info
 steamstatic.com
 teencamrips.com
