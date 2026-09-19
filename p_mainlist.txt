@@ -106,3 +106,4 @@ freakhosting.com
 trustee.io
 proxys.io
 clash.gg
+kickstarter.com
